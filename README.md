@@ -1,3 +1,5 @@
+![](./screen.png)
+
 >Ce dépôt contient quelques sujet de Katas que j'aime bien utiliser dans mes démos de live coding, notamment pour montrer
 le TDD en action. Et également des katas en cours d'élaboration ou de test 😉.
 

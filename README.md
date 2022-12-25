@@ -15,3 +15,5 @@ Les sujets de Kata :
 - [Le notificateur par mail](./notifier.md)
 - [Le "TDD du serpent" ou "Snake TDD"](./snake.md)
 
+Et des trucs à essayer : 
+- [Coding dojo muet](./coding-dojo-muet.md)

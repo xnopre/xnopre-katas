@@ -1,0 +1,1605 @@
+{
+"films":[
+ {
+  "rang": 1,
+  "titre": "Titanic",
+  "réalisateur": "J. Cameron",
+  "année de sortie": 1998,
+  "nationalité": "US",
+  "entrées (millions)": 21798906
+ },
+ {
+  "rang": 2,
+  "titre": "Bienvenue chez les Ch'tis",
+  "réalisateur": "D. Boon",
+  "année de sortie": 2008,
+  "nationalité": "FR",
+  "entrées (millions)": 20444918
+ },
+ {
+  "rang": 3,
+  "titre": "Intouchables",
+  "réalisateur": "E. Tolédano, O. Nakache",
+  "année de sortie": 2011,
+  "nationalité": "FR",
+  "entrées (millions)": 19509835
+ },
+ {
+  "rang": 4,
+  "titre": "La Grande Vadrouille",
+  "réalisateur": "G. Oury",
+  "année de sortie": 1966,
+  "nationalité": "FR\/GB",
+  "entrées (millions)": 17330139
+ },
+ {
+  "rang": 5,
+  "titre": "Autant en emporte le vent",
+  "réalisateur": "V. Fleming",
+  "année de sortie": 1950,
+  "nationalité": "US",
+  "entrées (millions)": 16728160
+ },
+ {
+  "rang": 6,
+  "titre": "Il était une fois dans l'Ouest",
+  "réalisateur": "S. Leone",
+  "année de sortie": 1969,
+  "nationalité": "IT",
+  "entrées (millions)": 14891828
+ },
+ {
+  "rang": 7,
+  "titre": "Le Livre de la jungle",
+  "réalisateur": "W. Reitherman",
+  "année de sortie": 1968,
+  "nationalité": "US",
+  "entrées (millions)": 14798057
+ },
+ {
+  "rang": 8,
+  "titre": "Avatar",
+  "réalisateur": "J. Cameron",
+  "année de sortie": 2009,
+  "nationalité": "US",
+  "entrées (millions)": 14782116
+ },
+ {
+  "rang": 9,
+  "titre": "Les 101 Dalmatiens",
+  "réalisateur": "W. Disney",
+  "année de sortie": 1961,
+  "nationalité": "US",
+  "entrées (millions)": 14697525
+ },
+ {
+  "rang": 10,
+  "titre": "Astérix et Obélix : mission Cléopâtre",
+  "réalisateur": "A. Chabat",
+  "année de sortie": 2002,
+  "nationalité": "FR",
+  "entrées (millions)": 14408347
+ },
+ {
+  "rang": 11,
+  "titre": "Les Dix Commandements",
+  "réalisateur": "C.B. DeMille",
+  "année de sortie": 1958,
+  "nationalité": "US",
+  "entrées (millions)": 14237371
+ },
+ {
+  "rang": 12,
+  "titre": "Ben Hur",
+  "réalisateur": "W. Wyler",
+  "année de sortie": 1960,
+  "nationalité": "US",
+  "entrées (millions)": 13857770
+ },
+ {
+  "rang": 13,
+  "titre": "Les Visiteurs",
+  "réalisateur": "J.M. Poiré",
+  "année de sortie": 1993,
+  "nationalité": "FR",
+  "entrées (millions)": 13673172
+ },
+ {
+  "rang": 14,
+  "titre": "Le Pont de la rivière Kwai",
+  "réalisateur": "D. Lean",
+  "année de sortie": 1957,
+  "nationalité": "GB",
+  "entrées (millions)": 13477151
+ },
+ {
+  "rang": 15,
+  "titre": "Cendrillon",
+  "réalisateur": "W. Disney",
+  "année de sortie": 1950,
+  "nationalité": "US",
+  "entrées (millions)": 13269623
+ },
+ {
+  "rang": 16,
+  "titre": "Le Petit Monde de Don Camillo",
+  "réalisateur": "J. Duvivier",
+  "année de sortie": 1952,
+  "nationalité": "IT\/FR",
+  "entrées (millions)": 12791213
+ },
+ {
+  "rang": 17,
+  "titre": "Les Aristochats",
+  "réalisateur": "W. Reitherman",
+  "année de sortie": 1971,
+  "nationalité": "US",
+  "entrées (millions)": 12737882
+ },
+ {
+  "rang": 18,
+  "titre": "Qu'est-ce qu'on a fait au bon dieu ?",
+  "réalisateur": "P. De Chauveron",
+  "année de sortie": 2014,
+  "nationalité": "FR",
+  "entrées (millions)": 12356551
+ },
+ {
+  "rang": 19,
+  "titre": "Le Jour le plus long",
+  "réalisateur": "Collectif",
+  "année de sortie": 1962,
+  "nationalité": "US",
+  "entrées (millions)": 11930550
+ },
+ {
+  "rang": 20,
+  "titre": "Le Corniaud",
+  "réalisateur": "G. Oury",
+  "année de sortie": 1965,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 11744912
+ },
+ {
+  "rang": 21,
+  "titre": "La Belle et le clochard",
+  "réalisateur": "W. Disney",
+  "année de sortie": 1955,
+  "nationalité": "US",
+  "entrées (millions)": 11253225
+ },
+ {
+  "rang": 22,
+  "titre": "Le Roi lion",
+  "réalisateur": "R. Aller, R. Minkoff",
+  "année de sortie": 1994,
+  "nationalité": "US",
+  "entrées (millions)": 10747322
+ },
+ {
+  "rang": 23,
+  "titre": "Bambi",
+  "réalisateur": "W. Disney",
+  "année de sortie": 1948,
+  "nationalité": "US",
+  "entrées (millions)": 10715149
+ },
+ {
+  "rang": 24,
+  "titre": "Star Wars : Episode 7, le reveil de la force",
+  "réalisateur": "J. J. Abrams",
+  "année de sortie": 2015,
+  "nationalité": "US",
+  "entrées (millions)": 10345644
+ },
+ {
+  "rang": 25,
+  "titre": "Taxi 2",
+  "réalisateur": "G. Krawczyk",
+  "année de sortie": 2000,
+  "nationalité": "FR",
+  "entrées (millions)": 10302954
+ },
+ {
+  "rang": 26,
+  "titre": "Trois hommes et un couffin",
+  "réalisateur": "C. Serreau",
+  "année de sortie": 1985,
+  "nationalité": "FR",
+  "entrées (millions)": 10251813
+ },
+ {
+  "rang": 27,
+  "titre": "Les Bronzés 3 - amis pour la vie",
+  "réalisateur": "P. Leconte",
+  "année de sortie": 2006,
+  "nationalité": "FR",
+  "entrées (millions)": 10229483
+ },
+ {
+  "rang": 28,
+  "titre": "Les Canons de Navarone",
+  "réalisateur": "J. Lee Thompson",
+  "année de sortie": 1961,
+  "nationalité": "US",
+  "entrées (millions)": 10181324
+ },
+ {
+  "rang": 29,
+  "titre": "La Guerre des boutons",
+  "réalisateur": "Y. Robert",
+  "année de sortie": 1962,
+  "nationalité": "FR",
+  "entrées (millions)": 10052423
+ },
+ {
+  "rang": 30,
+  "titre": "Les Misérables",
+  "réalisateur": "J.P. Le Chanois, J.P. Dreyfus",
+  "année de sortie": 1958,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 9969086
+ },
+ {
+  "rang": 31,
+  "titre": "Le Roi Lion",
+  "réalisateur": "J. Favreau",
+  "année de sortie": 2019,
+  "nationalité": "US",
+  "entrées (millions)": 9848728
+ },
+ {
+  "rang": 32,
+  "titre": "E.T. l'extra-terrestre",
+  "réalisateur": "S. Spielberg",
+  "année de sortie": 1982,
+  "nationalité": "US",
+  "entrées (millions)": 9847614
+ },
+ {
+  "rang": 33,
+  "titre": "Docteur Jivago",
+  "réalisateur": "D. Lean",
+  "année de sortie": 1966,
+  "nationalité": "US",
+  "entrées (millions)": 9817737
+ },
+ {
+  "rang": 34,
+  "titre": "Vingt mille lieues sous les mers",
+  "réalisateur": "R. Fleischer",
+  "année de sortie": 1955,
+  "nationalité": "US",
+  "entrées (millions)": 9628014
+ },
+ {
+  "rang": 35,
+  "titre": "Harry Potter à l'école des sorciers",
+  "réalisateur": "C. Colombus",
+  "année de sortie": 2001,
+  "nationalité": "US",
+  "entrées (millions)": 9545909
+ },
+ {
+  "rang": 36,
+  "titre": "Sous le plus grand chapiteau du monde",
+  "réalisateur": "C.B. DeMille",
+  "année de sortie": 1953,
+  "nationalité": "US",
+  "entrées (millions)": 9488114
+ },
+ {
+  "rang": 37,
+  "titre": "Le Monde de Nemo",
+  "réalisateur": "A. Stanton, L. Unkrich",
+  "année de sortie": 2003,
+  "nationalité": "US",
+  "entrées (millions)": 9446595
+ },
+ {
+  "rang": 38,
+  "titre": "Le Dîner de cons",
+  "réalisateur": "F. Veber",
+  "année de sortie": 1998,
+  "nationalité": "FR",
+  "entrées (millions)": 9249770
+ },
+ {
+  "rang": 39,
+  "titre": "Le Grand Bleu",
+  "réalisateur": "L. Besson",
+  "année de sortie": 1988,
+  "nationalité": "FR",
+  "entrées (millions)": 9200891
+ },
+ {
+  "rang": 40,
+  "titre": "L'Ours",
+  "réalisateur": "J.J. Annaud",
+  "année de sortie": 1988,
+  "nationalité": "FR",
+  "entrées (millions)": 9138948
+ },
+ {
+  "rang": 41,
+  "titre": "Emmanuelle",
+  "réalisateur": "J. Jaeckin",
+  "année de sortie": 1974,
+  "nationalité": "FR",
+  "entrées (millions)": 8894166
+ },
+ {
+  "rang": 42,
+  "titre": "Harry Potter et la chambre des secrets",
+  "réalisateur": "C. Colombus",
+  "année de sortie": 2002,
+  "nationalité": "US",
+  "entrées (millions)": 8862273
+ },
+ {
+  "rang": 43,
+  "titre": "La Vache et le prisonnier",
+  "réalisateur": "H. Verneuil",
+  "année de sortie": 1959,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 8851261
+ },
+ {
+  "rang": 44,
+  "titre": "West Side Story",
+  "réalisateur": "R. Wise, J. Robbins",
+  "année de sortie": 1962,
+  "nationalité": "US",
+  "entrées (millions)": 8780013
+ },
+ {
+  "rang": 45,
+  "titre": "Astérix et Obélix contre César",
+  "réalisateur": "C. Zidi",
+  "année de sortie": 1999,
+  "nationalité": "FR\/DE\/IT",
+  "entrées (millions)": 8776587
+ },
+ {
+  "rang": 46,
+  "titre": "La Grande Evasion",
+  "réalisateur": "R. Walsh",
+  "année de sortie": 1963,
+  "nationalité": "US",
+  "entrées (millions)": 8757609
+ },
+ {
+  "rang": 47,
+  "titre": "Le Bataillon du ciel",
+  "réalisateur": "A. Esway",
+  "année de sortie": 1947,
+  "nationalité": "FR",
+  "entrées (millions)": 8649752
+ },
+ {
+  "rang": 48,
+  "titre": "Le Fabuleux Destin d'Amélie Poulain",
+  "réalisateur": "J.P. Jeunet",
+  "année de sortie": 2001,
+  "nationalité": "FR\/DE",
+  "entrées (millions)": 8527435
+ },
+ {
+  "rang": 49,
+  "titre": "Les Choristes",
+  "réalisateur": "C. Barratier",
+  "année de sortie": 2004,
+  "nationalité": "FR\/CH",
+  "entrées (millions)": 8469922
+ },
+ {
+  "rang": 50,
+  "titre": "Le Dictateur",
+  "réalisateur": "C. Chaplin",
+  "année de sortie": 1945,
+  "nationalité": "US",
+  "entrées (millions)": 8406911
+ },
+ {
+  "rang": 51,
+  "titre": "Pour qui sonne le glas ?",
+  "réalisateur": "S. Wood",
+  "année de sortie": 1947,
+  "nationalité": "US",
+  "entrées (millions)": 8274759
+ },
+ {
+  "rang": 52,
+  "titre": "Rien à déclarer",
+  "réalisateur": "D. Boon",
+  "année de sortie": 2011,
+  "nationalité": "FR\/BE",
+  "entrées (millions)": 8140813
+ },
+ {
+  "rang": 53,
+  "titre": "Violettes impériales",
+  "réalisateur": "R. Pottier",
+  "année de sortie": 1952,
+  "nationalité": "FR\/ES",
+  "entrées (millions)": 8125846
+ },
+ {
+  "rang": 54,
+  "titre": "Les Couloirs du temps - les visiteurs 2",
+  "réalisateur": "J.M. Poiré",
+  "année de sortie": 1998,
+  "nationalité": "FR",
+  "entrées (millions)": 8039466
+ },
+ {
+  "rang": 55,
+  "titre": "Le Boulanger de Valorgue",
+  "réalisateur": "H. Verneuil",
+  "année de sortie": 1953,
+  "nationalité": "FR",
+  "entrées (millions)": 7889091
+ },
+ {
+  "rang": 56,
+  "titre": "Un Indien dans la ville",
+  "réalisateur": "H. Palud",
+  "année de sortie": 1994,
+  "nationalité": "FR",
+  "entrées (millions)": 7887974
+ },
+ {
+  "rang": 57,
+  "titre": "Pinocchio",
+  "réalisateur": "W. Disney",
+  "année de sortie": 1946,
+  "nationalité": "US",
+  "entrées (millions)": 7854113
+ },
+ {
+  "rang": 58,
+  "titre": "L'Âge de glace 3 - le temps des dinosaures",
+  "réalisateur": "C. Saldanha",
+  "année de sortie": 2009,
+  "nationalité": "US",
+  "entrées (millions)": 7836584
+ },
+ {
+  "rang": 59,
+  "titre": "Star Wars : épisode 1 - la menace fantôme",
+  "réalisateur": "G. Lucas",
+  "année de sortie": 1999,
+  "nationalité": "US",
+  "entrées (millions)": 7835365
+ },
+ {
+  "rang": 60,
+  "titre": "Tarzan",
+  "réalisateur": "C. Buck, K. Lima",
+  "année de sortie": 1999,
+  "nationalité": "US",
+  "entrées (millions)": 7822887
+ },
+ {
+  "rang": 61,
+  "titre": "Le Gendarme de Saint-Tropez",
+  "réalisateur": "J. Girault",
+  "année de sortie": 1964,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 7811393
+ },
+ {
+  "rang": 62,
+  "titre": "Le Comte de Monte Cristo",
+  "réalisateur": "R. Vernay",
+  "année de sortie": 1955,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 7780963
+ },
+ {
+  "rang": 63,
+  "titre": "Sixième Sens",
+  "réalisateur": "M. Night Shyamalan",
+  "année de sortie": 2000,
+  "nationalité": "US",
+  "entrées (millions)": 7743424
+ },
+ {
+  "rang": 64,
+  "titre": "Ratatouille",
+  "réalisateur": "B. Bird, J. Pinkava",
+  "année de sortie": 2007,
+  "nationalité": "US",
+  "entrées (millions)": 7727621
+ },
+ {
+  "rang": 65,
+  "titre": "Le Cinquième Elément",
+  "réalisateur": "L. Besson",
+  "année de sortie": 1997,
+  "nationalité": "FR",
+  "entrées (millions)": 7713105
+ },
+ {
+  "rang": 66,
+  "titre": "Harry Potter et la coupe de feu",
+  "réalisateur": "M. Newell",
+  "année de sortie": 2005,
+  "nationalité": "GB",
+  "entrées (millions)": 7712423
+ },
+ {
+  "rang": 67,
+  "titre": "la famille Bélier",
+  "réalisateur": "É. Lartigau",
+  "année de sortie": 2014,
+  "nationalité": "FR",
+  "entrées (millions)": 7704036
+ },
+ {
+  "rang": 68,
+  "titre": "Orange mécanique",
+  "réalisateur": "S. Kubrick",
+  "année de sortie": 1972,
+  "nationalité": "GB",
+  "entrées (millions)": 7629804
+ },
+ {
+  "rang": 69,
+  "titre": "La Reine des neiges 2",
+  "réalisateur": "C. Buck, J. Lee",
+  "année de sortie": 2019,
+  "nationalité": "US",
+  "entrées (millions)": 7527360
+ },
+ {
+  "rang": 70,
+  "titre": "Les Bidasses en folie",
+  "réalisateur": "C. Zidi",
+  "année de sortie": 1971,
+  "nationalité": "FR",
+  "entrées (millions)": 7460911
+ },
+ {
+  "rang": 71,
+  "titre": "Le Retour de Don Camillo",
+  "réalisateur": "J. Duvivier",
+  "année de sortie": 1953,
+  "nationalité": "IT\/FR",
+  "entrées (millions)": 7425550
+ },
+ {
+  "rang": 72,
+  "titre": "Le Seigneur des anneaux - le retour du roi",
+  "réalisateur": "P. Jackson",
+  "année de sortie": 2003,
+  "nationalité": "NZ",
+  "entrées (millions)": 7423673
+ },
+ {
+  "rang": 73,
+  "titre": "La Vérité si je mens 2",
+  "réalisateur": "T. Gilou",
+  "année de sortie": 2001,
+  "nationalité": "FR",
+  "entrées (millions)": 7407982
+ },
+ {
+  "rang": 74,
+  "titre": "Jour de fête",
+  "réalisateur": "J. Tati",
+  "année de sortie": 1949,
+  "nationalité": "FR",
+  "entrées (millions)": 7402939
+ },
+ {
+  "rang": 75,
+  "titre": "Aladdin",
+  "réalisateur": "J. Musker",
+  "année de sortie": 1993,
+  "nationalité": "US",
+  "entrées (millions)": 7353322
+ },
+ {
+  "rang": 76,
+  "titre": "Les Aventures de Peter Pan",
+  "réalisateur": "W. Disney",
+  "année de sortie": 1953,
+  "nationalité": "US",
+  "entrées (millions)": 7347176
+ },
+ {
+  "rang": 77,
+  "titre": "Les Aventures de Rabbi Jacob",
+  "réalisateur": "G. Oury",
+  "année de sortie": 1973,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 7307118
+ },
+ {
+  "rang": 78,
+  "titre": "Danse avec les loups",
+  "réalisateur": "K. Costner",
+  "année de sortie": 1991,
+  "nationalité": "US",
+  "entrées (millions)": 7281824
+ },
+ {
+  "rang": 79,
+  "titre": "Les Aventures de Bernard et Bianca",
+  "réalisateur": "Collectif",
+  "année de sortie": 1977,
+  "nationalité": "US",
+  "entrées (millions)": 7242381
+ },
+ {
+  "rang": 80,
+  "titre": "Jean de Florette",
+  "réalisateur": "C. Berri",
+  "année de sortie": 1986,
+  "nationalité": "FR",
+  "entrées (millions)": 7225184
+ },
+ {
+  "rang": 81,
+  "titre": "Star Wars : épisode 3 - la revanche des Sith",
+  "réalisateur": "G. Lucas",
+  "année de sortie": 2005,
+  "nationalité": "US",
+  "entrées (millions)": 7205953
+ },
+ {
+  "rang": 82,
+  "titre": "Harry Potter et le prisonnier d'Azkaban",
+  "réalisateur": "A. Cuaron",
+  "année de sortie": 2004,
+  "nationalité": "GB",
+  "entrées (millions)": 7152904
+ },
+ {
+  "rang": 83,
+  "titre": "Shrek 2",
+  "réalisateur": "A. Adamson, V. Jenson",
+  "année de sortie": 2004,
+  "nationalité": "US",
+  "entrées (millions)": 7142658
+ },
+ {
+  "rang": 84,
+  "titre": "Le Seigneur des anneaux - les deux tours",
+  "réalisateur": "P. Jackson",
+  "année de sortie": 2002,
+  "nationalité": "NZ",
+  "entrées (millions)": 7128603
+ },
+ {
+  "rang": 85,
+  "titre": "Samson et Dalila",
+  "réalisateur": "C.B. DeMille",
+  "année de sortie": 1951,
+  "nationalité": "US",
+  "entrées (millions)": 7116461
+ },
+ {
+  "rang": 86,
+  "titre": "Star Wars les derniers Jedi",
+  "réalisateur": "R. Johnson",
+  "année de sortie": 2017,
+  "nationalité": "US",
+  "entrées (millions)": 7094279
+ },
+ {
+  "rang": 87,
+  "titre": "Jeanne d'Arc",
+  "réalisateur": "V. Fleming",
+  "année de sortie": 1949,
+  "nationalité": "US",
+  "entrées (millions)": 7092805
+ },
+ {
+  "rang": 88,
+  "titre": "La Chèvre",
+  "réalisateur": "F. Veber",
+  "année de sortie": 1981,
+  "nationalité": "FR\/MX",
+  "entrées (millions)": 7080976
+ },
+ {
+  "rang": 89,
+  "titre": "Monsieur Vincent",
+  "réalisateur": "M. Cloche",
+  "année de sortie": 1947,
+  "nationalité": "FR",
+  "entrées (millions)": 7057022
+ },
+ {
+  "rang": 90,
+  "titre": "Les Sept Mercenaires",
+  "réalisateur": "J. Sturges",
+  "année de sortie": 1961,
+  "nationalité": "US",
+  "entrées (millions)": 7044522
+ },
+ {
+  "rang": 91,
+  "titre": "Le Seigneur des anneaux - la communauté de l'anneau",
+  "réalisateur": "P. Jackson",
+  "année de sortie": 2001,
+  "nationalité": "NZ",
+  "entrées (millions)": 7011664
+ },
+ {
+  "rang": 92,
+  "titre": "Skyfall",
+  "réalisateur": "S. Mendes",
+  "année de sortie": 2012,
+  "nationalité": "GB",
+  "entrées (millions)": 7009368
+ },
+ {
+  "rang": 93,
+  "titre": "Si Versailles m'était conté",
+  "réalisateur": "S. Guitry",
+  "année de sortie": 1954,
+  "nationalité": "FR",
+  "entrées (millions)": 6987432
+ },
+ {
+  "rang": 94,
+  "titre": "Les Grandes Vacances",
+  "réalisateur": "J. Girault",
+  "année de sortie": 1967,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 6987269
+ },
+ {
+  "rang": 95,
+  "titre": "Le Salaire de la peur",
+  "réalisateur": "H.G. Clouzot",
+  "année de sortie": 1953,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 6950146
+ },
+ {
+  "rang": 96,
+  "titre": "Michel Strogoff",
+  "réalisateur": "C. Gallone",
+  "année de sortie": 1956,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 6869247
+ },
+ {
+  "rang": 97,
+  "titre": "Le Gendarme se marie",
+  "réalisateur": "J. Girault",
+  "année de sortie": 1968,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 6828665
+ },
+ {
+  "rang": 98,
+  "titre": "Avengers : Endgame",
+  "réalisateur": "A. Russo, J. Russo",
+  "année de sortie": 2019,
+  "nationalité": "US",
+  "entrées (millions)": 6825154
+ },
+ {
+  "rang": 99,
+  "titre": "Le Bossu de Notre-Dame",
+  "réalisateur": "K. Wise, G. Trousdale",
+  "année de sortie": 1996,
+  "nationalité": "US",
+  "entrées (millions)": 6813099
+ },
+ {
+  "rang": 100,
+  "titre": "Astérix aux Jeux Olympiques",
+  "réalisateur": "F. Forestier, T. Langmann",
+  "année de sortie": 2008,
+  "nationalité": "FR\/DE\/ES\/IT",
+  "entrées (millions)": 6807835
+ },
+ {
+  "rang": 101,
+  "titre": "Mission spéciale",
+  "réalisateur": "M. de Canonge",
+  "année de sortie": 1946,
+  "nationalité": "FR",
+  "entrées (millions)": 6781120
+ },
+ {
+  "rang": 102,
+  "titre": "Jurassic Park",
+  "réalisateur": "S. Spielberg",
+  "année de sortie": 1993,
+  "nationalité": "US",
+  "entrées (millions)": 6755899
+ },
+ {
+  "rang": 103,
+  "titre": "Fanfan la Tulipe",
+  "réalisateur": "Christian-Jaque",
+  "année de sortie": 1952,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 6737998
+ },
+ {
+  "rang": 104,
+  "titre": "L'Exorciste",
+  "réalisateur": "W. Friedkin",
+  "année de sortie": 1974,
+  "nationalité": "US",
+  "entrées (millions)": 6727910
+ },
+ {
+  "rang": 105,
+  "titre": "Qu'est-ce qu'on a encore fait au bon dieu ?",
+  "réalisateur": "P. de Chauveron",
+  "année de sortie": 2019,
+  "nationalité": "FR \/ BE",
+  "entrées (millions)": 6719759
+ },
+ {
+  "rang": 106,
+  "titre": "Rox et Rouky",
+  "réalisateur": "A. Stevens",
+  "année de sortie": 1981,
+  "nationalité": "US",
+  "entrées (millions)": 6717395
+ },
+ {
+  "rang": 107,
+  "titre": "Goldfinger",
+  "réalisateur": "G. Hamilton",
+  "année de sortie": 1965,
+  "nationalité": "GB",
+  "entrées (millions)": 6676568
+ },
+ {
+  "rang": 108,
+  "titre": "Les Trois Frères",
+  "réalisateur": "D. Bourdon, B. Campan",
+  "année de sortie": 1995,
+  "nationalité": "FR",
+  "entrées (millions)": 6671088
+ },
+ {
+  "rang": 109,
+  "titre": "les Minions",
+  "réalisateur": "P. Coffin, K. Balda",
+  "année de sortie": 2015,
+  "nationalité": "US",
+  "entrées (millions)": 6663465
+ },
+ {
+  "rang": 110,
+  "titre": "Nous irons à Paris",
+  "réalisateur": "J. Boyer",
+  "année de sortie": 1950,
+  "nationalité": "FR",
+  "entrées (millions)": 6659325
+ },
+ {
+  "rang": 111,
+  "titre": "Manon des sources",
+  "réalisateur": "C. Berri",
+  "année de sortie": 1986,
+  "nationalité": "FR",
+  "entrées (millions)": 6646236
+ },
+ {
+  "rang": 112,
+  "titre": "l'Age de glace 4 : la dérive des continents",
+  "réalisateur": "M.Thurmeier, S. Martino",
+  "année de sortie": 2012,
+  "nationalité": "US",
+  "entrées (millions)": 6642048
+ },
+ {
+  "rang": 113,
+  "titre": "Sissi",
+  "réalisateur": "E. Marischka",
+  "année de sortie": 1956,
+  "nationalité": "AT",
+  "entrées (millions)": 6637836
+ },
+ {
+  "rang": 114,
+  "titre": "L'Age de glace 2",
+  "réalisateur": "C. Saldanha",
+  "année de sortie": 2006,
+  "nationalité": "US",
+  "entrées (millions)": 6627706
+ },
+ {
+  "rang": 115,
+  "titre": "Le Cercle des poètes disparus",
+  "réalisateur": "P. Weir",
+  "année de sortie": 1989,
+  "nationalité": "US",
+  "entrées (millions)": 6601781
+ },
+ {
+  "rang": 116,
+  "titre": "La Belle au bois dormant",
+  "réalisateur": "W. Disney",
+  "année de sortie": 1959,
+  "nationalité": "US",
+  "entrées (millions)": 6592751
+ },
+ {
+  "rang": 117,
+  "titre": "Harry Potter et les reliques de la mort - 2e partie",
+  "réalisateur": "D. Yates",
+  "année de sortie": 2011,
+  "nationalité": "GB",
+  "entrées (millions)": 6577156
+ },
+ {
+  "rang": 118,
+  "titre": "Pirates des Caraïbes - le secret du coffre maudit",
+  "réalisateur": "G. Verbinski",
+  "année de sortie": 2006,
+  "nationalité": "US",
+  "entrées (millions)": 6522015
+ },
+ {
+  "rang": 119,
+  "titre": "Robin des bois",
+  "réalisateur": "W. Reitherman",
+  "année de sortie": 1974,
+  "nationalité": "US",
+  "entrées (millions)": 6485372
+ },
+ {
+  "rang": 120,
+  "titre": "Taxi",
+  "réalisateur": "G. Pires",
+  "année de sortie": 1998,
+  "nationalité": "FR",
+  "entrées (millions)": 6485260
+ },
+ {
+  "rang": 121,
+  "titre": "Rain Man",
+  "réalisateur": "B. Levinson",
+  "année de sortie": 1989,
+  "nationalité": "US",
+  "entrées (millions)": 6475822
+ },
+ {
+  "rang": 122,
+  "titre": "La Guerre des étoiles",
+  "réalisateur": "G. Lucas",
+  "année de sortie": 1977,
+  "nationalité": "US",
+  "entrées (millions)": 6460540
+ },
+ {
+  "rang": 123,
+  "titre": "Sissi impératrice",
+  "réalisateur": "E. Marischka",
+  "année de sortie": 1957,
+  "nationalité": "AT",
+  "entrées (millions)": 6429021
+ },
+ {
+  "rang": 124,
+  "titre": "Les Aventuriers de l'arche perdue",
+  "réalisateur": "S. Spielberg",
+  "année de sortie": 1981,
+  "nationalité": "US",
+  "entrées (millions)": 6404631
+ },
+ {
+  "rang": 125,
+  "titre": "Tant qu'il y aura des hommes",
+  "réalisateur": "F. Zinnemann",
+  "année de sortie": 1954,
+  "nationalité": "US",
+  "entrées (millions)": 6401375
+ },
+ {
+  "rang": 126,
+  "titre": "Arthur et les Minimoys",
+  "réalisateur": "L. Besson",
+  "année de sortie": 2006,
+  "nationalité": "FR",
+  "entrées (millions)": 6400180
+ },
+ {
+  "rang": 127,
+  "titre": "La Cuisine au beurre",
+  "réalisateur": "G. Grangier",
+  "année de sortie": 1963,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 6397594
+ },
+ {
+  "rang": 128,
+  "titre": "Spider-Man",
+  "réalisateur": "S. Raimi",
+  "année de sortie": 2002,
+  "nationalité": "US",
+  "entrées (millions)": 6382266
+ },
+ {
+  "rang": 129,
+  "titre": "La Symphonie pastorale",
+  "réalisateur": "J. Delannoy",
+  "année de sortie": 1946,
+  "nationalité": "FR",
+  "entrées (millions)": 6373084
+ },
+ {
+  "rang": 130,
+  "titre": "Ivanhoé",
+  "réalisateur": "R. Thorpe",
+  "année de sortie": 1952,
+  "nationalité": "US",
+  "entrées (millions)": 6362071
+ },
+ {
+  "rang": 131,
+  "titre": "Le Bon, la brute et le truand",
+  "réalisateur": "S. Leone",
+  "année de sortie": 1968,
+  "nationalité": "IT",
+  "entrées (millions)": 6350067
+ },
+ {
+  "rang": 132,
+  "titre": "Les Dents de la mer",
+  "réalisateur": "S. Spielberg",
+  "année de sortie": 1976,
+  "nationalité": "US",
+  "entrées (millions)": 6346372
+ },
+ {
+  "rang": 133,
+  "titre": "Spider-Man 3",
+  "réalisateur": "S. Raimi",
+  "année de sortie": 2007,
+  "nationalité": "US",
+  "entrées (millions)": 6320882
+ },
+ {
+  "rang": 134,
+  "titre": "Quo Vadis",
+  "réalisateur": "M. Le Roy",
+  "année de sortie": 1953,
+  "nationalité": "US",
+  "entrées (millions)": 6305624
+ },
+ {
+  "rang": 135,
+  "titre": "La Gloire de mon père",
+  "réalisateur": "Y. Robert",
+  "année de sortie": 1990,
+  "nationalité": "FR",
+  "entrées (millions)": 6298736
+ },
+ {
+  "rang": 136,
+  "titre": "Le Gendarme et les extra-terrestres",
+  "réalisateur": "J. Girault",
+  "année de sortie": 1979,
+  "nationalité": "FR",
+  "entrées (millions)": 6280079
+ },
+ {
+  "rang": 137,
+  "titre": "Indiana Jones et la dernière croisade",
+  "réalisateur": "S. Spielberg",
+  "année de sortie": 1989,
+  "nationalité": "US",
+  "entrées (millions)": 6256297
+ },
+ {
+  "rang": 138,
+  "titre": "Harry Potter et l'ordre du Phénix",
+  "réalisateur": "D. Yates",
+  "année de sortie": 2007,
+  "nationalité": "GB",
+  "entrées (millions)": 6219499
+ },
+ {
+  "rang": 139,
+  "titre": "Marche à l'ombre",
+  "réalisateur": "M. Blanc",
+  "année de sortie": 1984,
+  "nationalité": "FR",
+  "entrées (millions)": 6168425
+ },
+ {
+  "rang": 140,
+  "titre": "Pas si bête",
+  "réalisateur": "A. Berthomieu",
+  "année de sortie": 1946,
+  "nationalité": "FR",
+  "entrées (millions)": 6165419
+ },
+ {
+  "rang": 141,
+  "titre": "Merlin l'enchanteur",
+  "réalisateur": "W. Reitherman",
+  "année de sortie": 1964,
+  "nationalité": "US",
+  "entrées (millions)": 6160500
+ },
+ {
+  "rang": 142,
+  "titre": "La Chartreuse de Parme",
+  "réalisateur": "Christian-Jaque",
+  "année de sortie": 1948,
+  "nationalité": "FR",
+  "entrées (millions)": 6152480
+ },
+ {
+  "rang": 143,
+  "titre": "Germinal",
+  "réalisateur": "C. Berri",
+  "année de sortie": 1993,
+  "nationalité": "FR\/BE",
+  "entrées (millions)": 6149725
+ },
+ {
+  "rang": 144,
+  "titre": "Harry Potter et le Prince de sang-mêlé",
+  "réalisateur": "D. Yates",
+  "année de sortie": 2009,
+  "nationalité": "GB",
+  "entrées (millions)": 6140398
+ },
+ {
+  "rang": 145,
+  "titre": "Le Père tranquille",
+  "réalisateur": "R. Clément",
+  "année de sortie": 1946,
+  "nationalité": "FR",
+  "entrées (millions)": 6139259
+ },
+ {
+  "rang": 146,
+  "titre": "Les Feux de la rampe",
+  "réalisateur": "C. Chaplin",
+  "année de sortie": 1952,
+  "nationalité": "US",
+  "entrées (millions)": 6137070
+ },
+ {
+  "rang": 147,
+  "titre": "Oscar",
+  "réalisateur": "E. Molinaro",
+  "année de sortie": 1967,
+  "nationalité": "FR",
+  "entrées (millions)": 6123063
+ },
+ {
+  "rang": 148,
+  "titre": "Taxi 3",
+  "réalisateur": "G. Krawczyk",
+  "année de sortie": 2003,
+  "nationalité": "FR",
+  "entrées (millions)": 6108669
+ },
+ {
+  "rang": 149,
+  "titre": "Harry Potter et les reliques de la mort - 1re partie",
+  "réalisateur": "D. Yates",
+  "année de sortie": 2010,
+  "nationalité": "GB",
+  "entrées (millions)": 6102789
+ },
+ {
+  "rang": 150,
+  "titre": "Star Wars : épisode 9, l'ascension de Skywalker",
+  "réalisateur": "J.J. Abrams",
+  "année de sortie": 2019,
+  "nationalité": "US",
+  "entrées (millions)": 6063436
+ },
+ {
+  "rang": 151,
+  "titre": "Terminator 2 - le jugement dernier",
+  "réalisateur": "J. Cameron",
+  "année de sortie": 1991,
+  "nationalité": "US",
+  "entrées (millions)": 6007492
+ },
+ {
+  "rang": 152,
+  "titre": "Midnight Express",
+  "réalisateur": "A. Parker",
+  "année de sortie": 1978,
+  "nationalité": "GB",
+  "entrées (millions)": 5974912
+ },
+ {
+  "rang": 153,
+  "titre": "Les Dieux sont tombés sur la tête",
+  "réalisateur": "J. Uys",
+  "année de sortie": 1983,
+  "nationalité": "ZA",
+  "entrées (millions)": 5950116
+ },
+ {
+  "rang": 154,
+  "titre": "Mourir d'aimer",
+  "réalisateur": "A. Cayatte",
+  "année de sortie": 1971,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 5912600
+ },
+ {
+  "rang": 155,
+  "titre": "Qui veut la peau de Roger Rabbit ?",
+  "réalisateur": "R. Zemeckis",
+  "année de sortie": 1988,
+  "nationalité": "US",
+  "entrées (millions)": 5909001
+ },
+ {
+  "rang": 156,
+  "titre": "Crocodile Dundee",
+  "réalisateur": "P. Faiman",
+  "année de sortie": 1987,
+  "nationalité": "AU",
+  "entrées (millions)": 5887982
+ },
+ {
+  "rang": 157,
+  "titre": "Guerre et Paix",
+  "réalisateur": "K. Vidor",
+  "année de sortie": 1956,
+  "nationalité": "US",
+  "entrées (millions)": 5885856
+ },
+ {
+  "rang": 158,
+  "titre": "Les Ripoux",
+  "réalisateur": "C. Zidi",
+  "année de sortie": 1984,
+  "nationalité": "FR",
+  "entrées (millions)": 5882397
+ },
+ {
+  "rang": 159,
+  "titre": "L'Odyssée du Docteur Wassel",
+  "réalisateur": "C.B. DeMille",
+  "année de sortie": 1946,
+  "nationalité": "US",
+  "entrées (millions)": 5866693
+ },
+ {
+  "rang": 160,
+  "titre": "Rambo 2 - la mission",
+  "réalisateur": "G.P. Cosmatos",
+  "année de sortie": 1985,
+  "nationalité": "US",
+  "entrées (millions)": 5851440
+ },
+ {
+  "rang": 161,
+  "titre": "Le Bossu",
+  "réalisateur": "A. Hunebelle",
+  "année de sortie": 1959,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 5847123
+ },
+ {
+  "rang": 162,
+  "titre": "L'Aile ou la Cuisse",
+  "réalisateur": "C. Zidi",
+  "année de sortie": 1976,
+  "nationalité": "FR",
+  "entrées (millions)": 5843090
+ },
+ {
+  "rang": 163,
+  "titre": "Les Vacances de Monsieur Hulot",
+  "réalisateur": "J. Tati",
+  "année de sortie": 1953,
+  "nationalité": "FR",
+  "entrées (millions)": 5799875
+ },
+ {
+  "rang": 164,
+  "titre": "Sissi face à son destin",
+  "réalisateur": "E. Marischka",
+  "année de sortie": 1958,
+  "nationalité": "AT",
+  "entrées (millions)": 5794263
+ },
+ {
+  "rang": 165,
+  "titre": "Quatre mariages et un enterrement",
+  "réalisateur": "M. Newell",
+  "année de sortie": 1994,
+  "nationalité": "GB",
+  "entrées (millions)": 5781268
+ },
+ {
+  "rang": 166,
+  "titre": "Mulan",
+  "réalisateur": "T. Bancroft, B. Cook",
+  "année de sortie": 1998,
+  "nationalité": "US",
+  "entrées (millions)": 5776901
+ },
+ {
+  "rang": 167,
+  "titre": "Men in Black",
+  "réalisateur": "B. Sonnenfeld",
+  "année de sortie": 1997,
+  "nationalité": "US",
+  "entrées (millions)": 5759617
+ },
+ {
+  "rang": 168,
+  "titre": "Le train sifflera trois fois",
+  "réalisateur": "F. Zinnemann",
+  "année de sortie": 1952,
+  "nationalité": "US",
+  "entrées (millions)": 5756216
+ },
+ {
+  "rang": 169,
+  "titre": "Moi, moche et méchant 3",
+  "réalisateur": "K. Balda, P. Coffin, E. Guillon",
+  "année de sortie": 2017,
+  "nationalité": "US",
+  "entrées (millions)": 5746829
+ },
+ {
+  "rang": 170,
+  "titre": "Grease",
+  "réalisateur": "R. Kleiser",
+  "année de sortie": 1978,
+  "nationalité": "US",
+  "entrées (millions)": 5745596
+ },
+ {
+  "rang": 171,
+  "titre": "Les Indestructibles 2",
+  "réalisateur": "B. Brad",
+  "année de sortie": 2018,
+  "nationalité": "US",
+  "entrées (millions)": 5744813
+ },
+ {
+  "rang": 172,
+  "titre": "Les Fous du stade",
+  "réalisateur": "C. Zidi",
+  "année de sortie": 1972,
+  "nationalité": "FR",
+  "entrées (millions)": 5744270
+ },
+ {
+  "rang": 173,
+  "titre": "Le Troisième Homme",
+  "réalisateur": "C. Reed",
+  "année de sortie": 1949,
+  "nationalité": "GB",
+  "entrées (millions)": 5742569
+ },
+ {
+  "rang": 174,
+  "titre": "Opération tonnerre",
+  "réalisateur": "T. Young",
+  "année de sortie": 1965,
+  "nationalité": "GB",
+  "entrées (millions)": 5735506
+ },
+ {
+  "rang": 175,
+  "titre": "Andalousie",
+  "réalisateur": "R. Vernay",
+  "année de sortie": 1951,
+  "nationalité": "FR\/ES",
+  "entrées (millions)": 5735108
+ },
+ {
+  "rang": 176,
+  "titre": "Les Anges gardiens",
+  "réalisateur": "J.M. Poiré",
+  "année de sortie": 1995,
+  "nationalité": "FR",
+  "entrées (millions)": 5734326
+ },
+ {
+  "rang": 177,
+  "titre": "Les Valseuses",
+  "réalisateur": "B. Blier",
+  "année de sortie": 1974,
+  "nationalité": "FR",
+  "entrées (millions)": 5729042
+ },
+ {
+  "rang": 178,
+  "titre": "La Bataille du rail",
+  "réalisateur": "R. Clément",
+  "année de sortie": 1946,
+  "nationalité": "FR",
+  "entrées (millions)": 5727974
+ },
+ {
+  "rang": 179,
+  "titre": "Lawrence d'Arabie",
+  "réalisateur": "D. Lean",
+  "année de sortie": 1963,
+  "nationalité": "GB",
+  "entrées (millions)": 5718291
+ },
+ {
+  "rang": 180,
+  "titre": "A nous les petites Anglaises",
+  "réalisateur": "M. Lang",
+  "année de sortie": 1976,
+  "nationalité": "FR",
+  "entrées (millions)": 5704446
+ },
+ {
+  "rang": 181,
+  "titre": "La Vérité",
+  "réalisateur": "H.G. Clouzot",
+  "année de sortie": 1960,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 5701210
+ },
+ {
+  "rang": 182,
+  "titre": "Notre-Dame de Paris",
+  "réalisateur": "J. Delannoy",
+  "année de sortie": 1956,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 5700102
+ },
+ {
+  "rang": 183,
+  "titre": "Indiana Jones et le temple maudit",
+  "réalisateur": "S. Spielberg",
+  "année de sortie": 1984,
+  "nationalité": "US",
+  "entrées (millions)": 5690878
+ },
+ {
+  "rang": 184,
+  "titre": "Les Tuche 3",
+  "réalisateur": "O. Baroux",
+  "année de sortie": 2018,
+  "nationalité": "FR",
+  "entrées (millions)": 5687833
+ },
+ {
+  "rang": 185,
+  "titre": "Matrix Reloaded",
+  "réalisateur": "L. Wachowski, A. Wachowski",
+  "année de sortie": 2003,
+  "nationalité": "US",
+  "entrées (millions)": 5672070
+ },
+ {
+  "rang": 186,
+  "titre": "Pirates des Caraïbes - jusqu'au bout du monde",
+  "réalisateur": "G. Verbinski",
+  "année de sortie": 2007,
+  "nationalité": "US",
+  "entrées (millions)": 5639260
+ },
+ {
+  "rang": 187,
+  "titre": "Pocahontas, une légende indienne",
+  "réalisateur": "M. Gabriel, E. Goldberg",
+  "année de sortie": 1995,
+  "nationalité": "US",
+  "entrées (millions)": 5634513
+ },
+ {
+  "rang": 188,
+  "titre": "La Ch'tite Famille",
+  "réalisateur": "D. Boon",
+  "année de sortie": 2018,
+  "nationalité": "FR",
+  "entrées (millions)": 5630428
+ },
+ {
+  "rang": 189,
+  "titre": "Bons baisers de Russie",
+  "réalisateur": "T. Young",
+  "année de sortie": 1964,
+  "nationalité": "GB",
+  "entrées (millions)": 5625125
+ },
+ {
+  "rang": 190,
+  "titre": "Star Wars : épisode 2 - l'attaque des clones",
+  "réalisateur": "G. Lucas",
+  "année de sortie": 2002,
+  "nationalité": "US",
+  "entrées (millions)": 5624277
+ },
+ {
+  "rang": 191,
+  "titre": "Le Petit Nicolas",
+  "réalisateur": "L. Tirard",
+  "année de sortie": 2009,
+  "nationalité": "FR\/BE",
+  "entrées (millions)": 5616187
+ },
+ {
+  "rang": 192,
+  "titre": "Joker",
+  "réalisateur": "T. Phillips",
+  "année de sortie": 2019,
+  "nationalité": "US",
+  "entrées (millions)": 5611793
+ },
+ {
+  "rang": 193,
+  "titre": "Independence Day",
+  "réalisateur": "R. Emmerich",
+  "année de sortie": 1996,
+  "nationalité": "US",
+  "entrées (millions)": 5606839
+ },
+ {
+  "rang": 194,
+  "titre": "Quai des Orfèvres",
+  "réalisateur": "H.G. Clouzot",
+  "année de sortie": 1947,
+  "nationalité": "FR",
+  "entrées (millions)": 5582579
+ },
+ {
+  "rang": 195,
+  "titre": "La Folie des grandeurs",
+  "réalisateur": "G. Oury",
+  "année de sortie": 1971,
+  "nationalité": "FR\/DE\/ES",
+  "entrées (millions)": 5568547
+ },
+ {
+  "rang": 196,
+  "titre": "Le Cerveau",
+  "réalisateur": "G. Oury",
+  "année de sortie": 1969,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 5548991
+ },
+ {
+  "rang": 197,
+  "titre": "Vaïana, la légende du bout du monde",
+  "réalisateur": "J. Musker, R. Clements",
+  "année de sortie": 2016,
+  "nationalité": "US",
+  "entrées (millions)": 5548902
+ },
+ {
+  "rang": 198,
+  "titre": "Le Petit Baigneur",
+  "réalisateur": "R. Dhéry",
+  "année de sortie": 1968,
+  "nationalité": "FR\/IT",
+  "entrées (millions)": 5542856
+ },
+ {
+  "rang": 199,
+  "titre": "Shrek le troisième",
+  "réalisateur": "C. Miller",
+  "année de sortie": 2007,
+  "nationalité": "US",
+  "entrées (millions)": 5536365
+ },
+ {
+  "rang": 200,
+  "titre": "Love Story",
+  "réalisateur": "A. Hiller",
+  "année de sortie": 1971,
+  "nationalité": "US",
+  "entrées (millions)": 5512408
+ }
+],
+"ESRI_MAPINFO_SHEET":null
+}

@@ -21,6 +21,7 @@ N'hésites pas :
 | [Statistiques de cinéma](./statistiques_de_cinéma.md) | Manipulation de données (filter/map/reduce)                            |
 | [Le notificateur par mail](./notifier.md)             | Mocks                                                                  |
 | [Le "TDD du serpent" ou "Snake TDD"](./snake.md)      | Du code qu'on peut tout de suite exécuter/utiliser/tester pour de vrai |
+| [Préparation de commandes](./api_command.md)          | Promesses et tests asynchrone                                          |
 
 
 # Et des trucs à essayer 
